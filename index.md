@@ -8,22 +8,41 @@
 <img src="images/heatmap.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Capstone project]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[SVM project]()
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Random Forest classification]()
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[NLP Text classification]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Unsupervised Learning
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Kmeans Clustering]("add page address")
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 2 Title](http://example.com/)
+
+---
+
+### Other Projects / Games
+
+- [Caesar Cipher]()
+- [Hangman]()
+- [Rock Paper Scissors]()
+- [Treasure Island]()
+- [Coffee Machined]()
+- [Tip Calculator]()
 
 ---
 
