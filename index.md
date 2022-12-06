@@ -4,7 +4,7 @@
 
 ### Supervised Learning 
 
-[Linear Regression](/sample_page)
+[Linear Regression](https://github.com/Joseph-J-Burton/Linear_Regression_project)
 <img src="images/heatmap.PNG?raw=true"/>
 
 ---
