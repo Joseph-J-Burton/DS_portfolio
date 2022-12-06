@@ -4,30 +4,31 @@
 
 ### Supervised Learning 
 
-[Linear Regression](https://github.com/Joseph-J-Burton/Linear_Regression_project)
+Ames Iowa Housing
+[Linear Regression Analysis](https://github.com/Joseph-J-Burton/Linear_Regression_project)
 <img src="images/heatmap.PNG?raw=true"/>
 
 ---
-[Capstone project]()
+[Capstone project](https://github.com/Joseph-J-Burton/Supervised-Learning-Capstone)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[SVM project]()
+[SVM project](https://github.com/Joseph-J-Burton/support-vector-machine)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Random Forest classification]()
+[Random Forest classification](https://github.com/Joseph-J-Burton/random-forest-classification)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[NLP Text classification]()
+[NLP Text classification](https://github.com/Joseph-J-Burton/NLP-text-classification)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Unsupervised Learning
 
-[Kmeans Clustering]("add page address")
+[Kmeans Clustering](https://github.com/Joseph-J-Burton/Kmeans-Clustering)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -37,12 +38,12 @@
 
 ### Other Projects / Games
 
-- [Caesar Cipher]()
-- [Hangman]()
-- [Rock Paper Scissors]()
-- [Treasure Island]()
-- [Coffee Machined]()
-- [Tip Calculator]()
+- [Caesar Cipher](https://github.com/Joseph-J-Burton/caesar-cipher)
+- [Hangman](https://github.com/Joseph-J-Burton/Hangman-game)
+- [Rock Paper Scissors](https://github.com/Joseph-J-Burton/rock-paper-scissors_game)
+- [Treasure Island](https://github.com/Joseph-J-Burton/treasure_island)
+- [Coffee Machined](https://github.com/Joseph-J-Burton/oop-coffee-machine)
+- [Tip Calculator](https://github.com/Joseph-J-Burton/tip-calculator)
 
 ---
 
