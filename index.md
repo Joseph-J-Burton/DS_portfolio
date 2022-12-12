@@ -1,21 +1,21 @@
-## Project Portfolio
+# Project Portfolio
 
 ---
 
 ### Supervised Learning 
 
-Ames Iowa Housing
+Ames Iowa Housing, 
 [Linear Regression Analysis](https://github.com/Joseph-J-Burton/Linear_Regression_project)
 <img src="images/houses.PNG"
      width="400"
      height="200"/>
 
 ---
-Customer Churn
-[Tree Methods, Capstone project](https://github.com/Joseph-J-Burton/Supervised-Learning-Capstone)
+Customer Churn, 
+[Tree Methods - Capstone project](https://github.com/Joseph-J-Burton/Supervised-Learning-Capstone)
 <img src="images/Forest.PNG"
-     width="400"
-     height="200"/>
+     width="300"
+     height="300"/>
 
 ---
 [SVM project](https://github.com/Joseph-J-Burton/support-vector-machine)
@@ -39,14 +39,14 @@ Customer Churn
 
 ### Unsupervised Learning
 
-Pecent of People with Cell Phones
+People with Cell Phones, 
 [Kmeans Clustering](https://github.com/Joseph-J-Burton/Kmeans-Clustering)
 <img src="images/cluster_map.PNG"
      width="400"
      height="200"/>
 
 ---
-[Project 2 Title](http://example.com/)
+[New Project](http://example.com/)
 
 ---
 
@@ -60,7 +60,7 @@ Pecent of People with Cell Phones
 
 - [Treasure Island game](https://github.com/Joseph-J-Burton/treasure_island) <img src="images/treasure_island.PNG" width="75" height="75"/>
 
-- [Coffee Machine](https://github.com/Joseph-J-Burton/oop-coffee-machine)
+- Object-Oriented Programming, [Coffee Machine](https://github.com/Joseph-J-Burton/oop-coffee-machine) <img src="images/coffee.PNG" width="50" height="50"/>
   
 - [Tip Calculator](https://github.com/Joseph-J-Burton/tip-calculator) <img src="images/calculator.PNG" width="50" height="50"/>
 
