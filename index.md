@@ -18,8 +18,9 @@ Customer Churn,
      height="300"/>
 
 ---
+Wine Classification,
 [SVM project](https://github.com/Joseph-J-Burton/support-vector-machine)
-<img src="images/dummy_thumbnail.jpg"
+<img src="images/wine.jpg"
      width="400"
      height="200"/>
 
