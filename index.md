@@ -31,8 +31,9 @@ Wine Classification,
      height="200"/>
 
 ---
+Movie Review Processing, 
 [NLP Text classification](https://github.com/Joseph-J-Burton/NLP-text-classification)
-<img src="images/dummy_thumbnail.jpg"
+<img src="images/movie.PNG"
      width="400"
      height="200"/>
 
