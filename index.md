@@ -25,8 +25,9 @@ Wine Classification,
      height="200"/>
 
 ---
+Penguin Classification,
 [Random Forest classification](https://github.com/Joseph-J-Burton/random-forest-classification)
-<img src="images/dummy_thumbnail.jpg"
+<img src="images/penguin.PNG"
      width="400"
      height="200"/>
 
