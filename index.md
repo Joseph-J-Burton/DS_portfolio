@@ -49,7 +49,7 @@ People with Cell Phones,
      height="200"/>
 
 ---
-[New Project](http://example.com/)
+New Project - _coming soon_
 
 ---
 
