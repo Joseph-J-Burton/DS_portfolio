@@ -55,7 +55,7 @@ New Project - _coming soon_
 
 ### Other Projects / Games
 
-- [Caesar Cipher (message encoder/decoder)](https://github.com/Joseph-J-Burton/caesar-cipher) <img src="images/decoder.PNG" width="75" height="75"/>
+- [Turtle Race game](https://github.com/Joseph-J-Burton/Turtle_Races) <img src="images/running-turtle.ico" width="75" height="75"/>  
 
 - [Hangman game](https://github.com/Joseph-J-Burton/Hangman-game) <img src="images/hang_man.PNG" width="100" height="75"/>
 
@@ -63,7 +63,9 @@ New Project - _coming soon_
 
 - [Treasure Island game](https://github.com/Joseph-J-Burton/treasure_island) <img src="images/treasure_island.PNG" width="75" height="75"/>
 
-- Object-Oriented Programming, [Coffee Machine](https://github.com/Joseph-J-Burton/oop-coffee-machine) <img src="images/coffee.PNG" width="50" height="50"/>
+- Object-Oriented Programming, [Coffee Machine](https://github.com/Joseph-J-Burton/oop-coffee-machine) <img src="images/coffee.PNG" width="50" height="50"/>  
+
+- [Caesar Cipher (message encoder/decoder)](https://github.com/Joseph-J-Burton/caesar-cipher) <img src="images/decoder.PNG" width="75" height="75"/>
   
 - [Tip Calculator](https://github.com/Joseph-J-Burton/tip-calculator) <img src="images/calculator.PNG" width="50" height="50"/>
 
