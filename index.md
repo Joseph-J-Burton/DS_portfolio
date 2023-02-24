@@ -78,6 +78,4 @@ New Project - _coming soon_
 <!-- Remove above message if you don't want -->
 
 
-<div id="sfcbnzaeur17txnb6ax97nxgjhagt7fsl4t"></div>
-<a href="https://www.freecounterstat.com" title="page view counter">
-<img src="https://counter4.optistats.ovh/private/freecounterstat.php?c=bnzaeur17txnb6ax97nxgjhagt7fsl4t" border="0" title="page view counter" alt="page view counter"></a>
+<a href="https://www.freecounterstat.com" title="free website counter"><img src="https://counter4.optistats.ovh/private/freecounterstat.php?c=d5q35yyhlb3psu7ha6ddyzzjrehyndqr" border="0" title="free website counter" alt="free website counter"></a>
