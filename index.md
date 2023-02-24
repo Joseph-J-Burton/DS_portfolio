@@ -73,7 +73,11 @@ New Project - _coming soon_
 
 
 
-
 ---
 <p style="font-size:11px">Thanks for viewing my Project Portfolio! I hope you have a great day!</p>
 <!-- Remove above message if you don't want -->
+
+
+<div id="sfcbnzaeur17txnb6ax97nxgjhagt7fsl4t"></div>
+<a href="https://www.freecounterstat.com" title="page view counter">
+<img src="https://counter4.optistats.ovh/private/freecounterstat.php?c=bnzaeur17txnb6ax97nxgjhagt7fsl4t" border="0" title="page view counter" alt="page view counter"></a>
